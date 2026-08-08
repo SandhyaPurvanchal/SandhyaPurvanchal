@@ -1,4 +1,4 @@
-<div align="justify">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&repeat=false&width=350&height=45&lines=Sandhya+Kushwaha" alt="Sandhya Kushwaha" />
 
