@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&repeat=false&width=350&height=45&lines=Sandhya+Kushwaha" alt="Sandhya Kushwaha" />
 
@@ -6,7 +6,7 @@
 
 <sub>Computer Science Student · Aspiring Java Developer · Building Scalable Apps</sub>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/SandhyaPurvanchal"><img src="https://img.shields.io/badge/Java-Developer-4169E1?style=flat-square&logo=openjdk&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/SandhyaPurvanchal"><img src="https://img.shields.io/badge/Spring_Boot-Backend-4169E1?style=flat-square&logo=springboot&logoColor=white" /></a>&nbsp;
@@ -14,7 +14,7 @@
 <a href="https://github.com/SandhyaPurvanchal"><img src="https://img.shields.io/badge/DSA-Problem_Solving-4169E1?style=flat-square&logo=leetcode&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/SandhyaPurvanchal"><img src="https://img.shields.io/badge/PL%2FSQL-Database-4169E1?style=flat-square&logo=oracle&logoColor=white" /></a>
 
-<br/><br/>
+<br/>
 
 **Daily**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-0052CC?style=flat-square&logo=openjdk&logoColor=white" />
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 ### 🛠️ Featured projects
 
@@ -48,7 +48,7 @@
 | [`Employee-Onboarding-Task-Tracker`](https://github.com/SandhyaPurvanchal/Employee-Onboarding-Task-Tracker) | Employee onboarding workflow and task tracking system. | ![](https://img.shields.io/github/stars/SandhyaPurvanchal/Employee-Onboarding-Task-Tracker?style=flat-square&logo=github&label=&color=4169E1) |
 | [`Internal-Inventory-Asset-Management-System`](https://github.com/SandhyaPurvanchal/Internal-Inventory-Asset-Management-System) | Asset tracking backend system with CRUD operations and database integration. | ![](https://img.shields.io/github/stars/SandhyaPurvanchal/Internal-Inventory-Asset-Management-System?style=flat-square&logo=github&label=&color=4169E1) |
 
-<br/><br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=SandhyaPurvanchal&show_icons=true&title_color=4169E1&text_color=c9d1d9&icon_color=4169E1&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
@@ -62,7 +62,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SandhyaPurvanchal&title_color=4169E1&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
@@ -70,11 +70,11 @@
   <img src="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=6e7681" alt="streak" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandhyaPurvanchal&theme=react-dark&color=0052CC&line=0052CC&point=4169E1&hide_border=true&area=true" width="90%" alt="Contribution Graph" />
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandhyaPurvanchal/SandhyaPurvanchal/output/github-snake-dark.svg" />
@@ -82,11 +82,11 @@
   <img src="https://raw.githubusercontent.com/SandhyaPurvanchal/SandhyaPurvanchal/output/github-snake.svg" alt="snake" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <sub>powered by logic, caffeine, and endless code commits</sub>
 
-<br/><br/>
+<br/>
 
 [![](https://komarev.com/ghpvc/?username=SandhyaPurvanchal&color=4169E1&style=flat-square&label=)](https://github.com/SandhyaPurvanchal)
 
