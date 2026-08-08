@@ -49,7 +49,7 @@
 
 | Project | What it does | Stars |
 | --- | --- | --- |
-| [`Java-DSA-Solutions`](https://github.com/SandhyaPurvanchal) | Practical implementations of Data Structures & Algorithms in Java. | ![](https://img.shields.io/github/stars/SandhyaPurvanchal/Java-DSA-Solutions?style=flat-square&logo=github&label=&color=4169E1) |
+| [`Employee-Onboarding-Task-Tracker`](https://github.com/SandhyaPurvanchal/Employee-Onboarding-Task-Tracker) | Employee onboarding workflow and task tracking system. | ![](https://img.shields.io/github/stars/SandhyaPurvanchal/Employee-Onboarding-Task-Tracker?style=flat-square&logo=github&label=&color=4169E1) | 
 | [`Internal-Inventory-Asset-Management-System`](https://github.com/SandhyaPurvanchal/Internal-Inventory-Asset-Management-System) | Asset tracking backend system with CRUD operations and database integration. | ![](https://img.shields.io/github/stars/SandhyaPurvanchal/Internal-Inventory-Asset-Management-System?style=flat-square&logo=github&label=&color=4169E1) |
 
 </div>
