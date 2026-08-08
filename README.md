@@ -72,10 +72,6 @@
 
 <br/><br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SandhyaPurvanchal&theme=react-dark&color=0052CC&line=0052CC&point=4169E1&hide_border=true&area=true" width="90%" alt="Contribution Graph" />
-
 </div>
 
 <picture>
@@ -83,6 +79,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=ffffff&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
   <img src="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
 </picture>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SandhyaPurvanchal&theme=react-dark&color=0052CC&line=0052CC&point=4169E1&hide_border=true&area=true" width="90%" alt="Contribution Graph" />
 
 </div>
 
