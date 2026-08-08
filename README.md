@@ -45,6 +45,46 @@
 
 <div align="center">
 
+<details>
+<summary>&nbsp;<b>View Java Full Stack Roadmap & Skills</b> — 🚀</summary>
+<br/>
+
+<p>
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Java-0052CC?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<p>
+  <!-- Frameworks & Backend -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logoColor=white" />
+</p>
+
+<p>
+  <!-- Database & DevOps -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+</details>
+
+</div>
+
+
+
+<div align="center">
+
 ### 🛠️ Featured projects
 
 | Project | What it does | Stars |
