@@ -50,7 +50,6 @@
 
 <br/><br/><br/>
 
-<!-- Stats & Languages Cards -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=SandhyaPurvanchal&show_icons=true&title_color=4169E1&text_color=c9d1d9&icon_color=4169E1&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=SandhyaPurvanchal&show_icons=true&title_color=4169E1&text_color=24292f&icon_color=4169E1&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
@@ -60,26 +59,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SandhyaPurvanchal&title_color=4169E1&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SandhyaPurvanchal&title_color=4169E1&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SandhyaPurvanchal&title_color=4169E1&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SandhyaPurvanchal&title_color=4169E1&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
 </picture>
 
 <br/><br/>
 
-<!-- Streak Card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=ffffff&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
-  <img src="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=6e7681" alt="streak" />
 </picture>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandhyaPurvanchal&theme=react-dark&color=0052CC&line=0052CC&point=4169E1&hide_border=true&area=true" width="90%" alt="Contribution Graph" />
 
 <br/><br/>
 
-<!-- Snake Game -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandhyaPurvanchal/SandhyaPurvanchal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandhyaPurvanchal/SandhyaPurvanchal/output/github-snake.svg" />
