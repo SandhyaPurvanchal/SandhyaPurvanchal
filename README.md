@@ -1,28 +1,93 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e63946&height=200&section=header&text=Sandhya%20Kushwaha&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header Banner" width="100%">
-</p>
+<div align="center">
 
-<!-- Animated Typing Text -->
-<h3 align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=500&lines=Aspiring+Java+Developer+☕;Computer+Science+Student+💻;Building+Scalable+Applications+🚀">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=500&lines=Aspiring+Java+Developer+☕;Computer+Science+Student+💻;Building+Scalable+Applications+🚀" alt="Typing SVG" />
-  </a>
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&repeat=false&width=350&height=45&lines=Sandhya+Kushwaha" alt="Sandhya Kushwaha" />
 
-<!-- Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=e63946" alt="Followers" />
-  <img src="https://img.shields.io/badge/FOCUS-JAVA%20DEVELOPMENT-e63946?style=for-the-badge&logo=java&logoColor=white" alt="Focus" />
-</p>
+<br/>
 
----
+<sub>Computer Science Student · Aspiring Java Developer · Building Scalable Apps</sub>
 
-<!-- About Me Box -->
-## 👩‍💻 About Me
+<br/><br/>
 
-```text
-Name       : Sandhya Kushwaha
-Domain     : Java & Full-Stack Development
-Focus Area : Data Structures, Algorithms & Backend Systems
-Goal       : Building high-performance Java applications
+<a href="https://github.com/SandhyaPurvanchal"><img src="https://img.shields.io/badge/Java-Developer-4169E1?style=flat-square&logo=openjdk&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/SandhyaPurvanchal"><img src="https://img.shields.io/badge/Spring_Boot-Backend-4169E1?style=flat-square&logo=springboot&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/SandhyaPurvanchal"><img src="https://img.shields.io/badge/React-Frontend-4169E1?style=flat-square&logo=react&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/SandhyaPurvanchal"><img src="https://img.shields.io/badge/DSA-Problem_Solving-4169E1?style=flat-square&logo=leetcode&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/SandhyaPurvanchal"><img src="https://img.shields.io/badge/PL%2FSQL-Database-4169E1?style=flat-square&logo=oracle&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Daily**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-0052CC?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+
+**Database**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+**Infra**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Featured projects
+
+| Project | What it does | Stars |
+| --- | --- | --- |
+| [`Java-DSA-Solutions`](https://github.com/SandhyaPurvanchal) | Practical implementations of Data Structures & Algorithms in Java. | ![](https://img.shields.io/github/stars/SandhyaPurvanchal/Java-DSA-Solutions?style=flat-square&logo=github&label=&color=4169E1) |
+| [`Internal-Inventory-Asset-Management-System`](https://github.com/SandhyaPurvanchal/Internal-Inventory-Asset-Management-System) | Asset tracking backend system with CRUD operations and database integration. | ![](https://img.shields.io/github/stars/SandhyaPurvanchal/Internal-Inventory-Asset-Management-System?style=flat-square&logo=github&label=&color=4169E1) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=SandhyaPurvanchal&show_icons=true&title_color=4169E1&text_color=c9d1d9&icon_color=4169E1&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=SandhyaPurvanchal&show_icons=true&title_color=4169E1&text_color=24292f&icon_color=4169E1&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SandhyaPurvanchal&show_icons=true&title_color=4169E1&text_color=c9d1d9&icon_color=4169E1&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SandhyaPurvanchal&title_color=4169E1&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SandhyaPurvanchal&title_color=4169E1&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SandhyaPurvanchal&title_color=4169E1&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=ffffff&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  <img src="https://streak-stats.demolab.com?user=SandhyaPurvanchal&hide_border=true&background=0d1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>powered by logic, caffeine, and endless code commits</sub>
+
+<br/><br/>
+
+[![](https://komarev.com/ghpvc/?username=SandhyaPurvanchal&color=4169E1&style=flat-square&label=)](https://github.com/SandhyaPurvanchal)
+
+</div>
